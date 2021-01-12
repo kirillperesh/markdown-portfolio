@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Thing a like:
+* Cats
+  * Furry cats
+  * Not skinny cats
+* Beer
+* Eat
